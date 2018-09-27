@@ -1,0 +1,9 @@
+{
+  "name": "YoutubeBot",
+  "version": "1.0.0",
+  "description": "A youtube bot",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.97.0"
+  }
+}
